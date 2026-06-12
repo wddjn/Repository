@@ -1,0 +1,8 @@
+# Gradle缓存
+.gradle/
+build/
+# IDE配置
+.idea/
+*.iml
+# 编译产物
+*.class
